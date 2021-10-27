@@ -23,5 +23,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).    
 
-### APP gif    
+### App gif:        
 ![aprR33SiuY](https://user-images.githubusercontent.com/86303341/139129080-013af98f-70d5-447a-8215-f9a84cf0ac23.gif)
